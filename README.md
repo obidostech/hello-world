@@ -1,1 +1,2 @@
-Good work. This is Prasanth.
+<cfset varhello = "Hello World">
+<cfoutput>#varhello#</cfoutput>
