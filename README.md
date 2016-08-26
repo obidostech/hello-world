@@ -1,1 +1,1 @@
-Removed older code.
+<cfoutput>Hello</cfoutput>
