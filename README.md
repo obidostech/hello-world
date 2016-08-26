@@ -1,1 +1,1 @@
-<cfoutput>Hello</cfoutput>
+<cfoutput>Hello #a+b#</cfoutput>
